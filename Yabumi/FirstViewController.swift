@@ -2,8 +2,7 @@
 //  FirstViewController.swift
 //  Yabumi
 //
-//  Created by Yuki KAN on 2014/09/21.
-//  Copyright (c) 2014年 Webnium Inc. All rights reserved.
+//  Copyright (c) 2014 Webnium Inc. All rights reserved.
 //
 
 import UIKit

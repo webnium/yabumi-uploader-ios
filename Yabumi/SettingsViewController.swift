@@ -1,14 +1,13 @@
 //
-//  SecondViewController.swift
+//  SettingsViewController.swift
 //  Yabumi
 //
-//  Created by Yuki KAN on 2014/09/21.
-//  Copyright (c) 2014年 Webnium Inc. All rights reserved.
+//  Copyright (c) 2014 Webnium Inc. All rights reserved.
 //
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,7 +18,6 @@ class SecondViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
 
 }
 
